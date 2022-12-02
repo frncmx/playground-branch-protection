@@ -1,1 +1,3 @@
 # playground-branch-protection
+
+foo
